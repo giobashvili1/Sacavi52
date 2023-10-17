@@ -1,0 +1,27 @@
+.text1 p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+   color: #777777;
+   margin-right: 1000px;
+   text-transform:capitalize;
+}
+.text2 p{
+    text-align: center;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19.36px;
+    font-family: 'Inter', sans-serif;
+    color: #001AFF;
+}
+.text3 p{
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19.36px;
+    text-align: justify;
+    padding-top: 30px;
+    margin-left: 80px;
+    color: #FF0000;
+}
